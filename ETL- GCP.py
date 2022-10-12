@@ -4,11 +4,11 @@
 # In[ ]:
 
 
-## First, I extracted data from a flat file and load the data directly to a Cloud SQL database.
+## First, We extracted data from a flat file and load the data directly to a Cloud SQL database.
 
-## Second,I extracted data from an API and loaded the data to that Cloud SQL database.
+## Second, We extracted data from an API and loaded the data to that Cloud SQL database.
 
-# Third, I extracted data from a different flat file, clean and transform the data, then load the cleaned/transformed
+# Third, We extracted data from a different flat file, clean and transform the data, then load the cleaned/transformed
 # data into that Cloud SQL database.
 
 
